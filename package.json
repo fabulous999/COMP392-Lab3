@@ -20,10 +20,17 @@
     "type": "git",
     "url": "git+https://github.com/fabulous999/COMP392-Lab3.git"
   },
-  "author": "Tom Tsiliopoulos",
+  "author": "Fabio nocera",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fabulous999/COMP392-Lab3.git"
   },
-  "homepage": "https://github.com/fabulous999/COMP392-Lab3#readme"
+  "homepage": "https://github.com/fabulous999/COMP392-Lab3#readme",
+  "scripts": {
+    "test": "\\"
+  },
+  "keywords": [
+    "fabio",
+    "nocera"
+  ]
 }
